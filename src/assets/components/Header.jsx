@@ -12,7 +12,7 @@ const Header = () => {
           </Navbar.Brand>
       
         
-        <button className="btn btn-link fw-bolder">Logout <i className='fa-solid fa-right-from-bracket ms-1'></i>  </button>
+      
       
       
         </Container>
